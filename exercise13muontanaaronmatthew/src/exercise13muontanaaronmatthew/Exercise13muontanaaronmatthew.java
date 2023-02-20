@@ -31,6 +31,7 @@ public class Exercise13muontanaaronmatthew extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Make an instance of a subject first.
         launch(args);
     }
     
